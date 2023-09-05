@@ -39,7 +39,8 @@ transduction
 13. Approaches to cancer prevention
 
 
-# You will find more details in the notebook &  dataset used in this notebook you can find it in the zip file given in this reposatory
+# You will find more details in the notebook 
+# Dataset used in this notebook can be found in the zip file given in this reposatory
 
 
 
